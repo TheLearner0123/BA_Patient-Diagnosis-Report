@@ -22,4 +22,5 @@ Task to be performed:
 •	Write a query to display the doctor’s duplicate name from the table.
 
 Author: Sukalyan Mallick
+
 Tools: MySQL
